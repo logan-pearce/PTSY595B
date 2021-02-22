@@ -1,2 +1,1 @@
-# PTSY595B
-Repo for code for advanced orbital mechanics class.
+# Generalized Leapfrog Integrator for the planar restricted three body problem
